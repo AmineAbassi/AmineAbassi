@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Amine Abassi
 
-<!--
-**AmineAbassi/AmineAbassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Mobile Developer** 🚀 with skills in Android, iOS, Flutter, Spring Boot, and Node.js.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/yourusername/yourrepository/raw/main/path_to_image/android.png" alt="Android" width="50" height="50"/>
+<img src="https://github.com/yourusername/yourrepository/raw/main/path_to_image/ios.png" alt="iOS" width="50" height="50"/>
+<img src="https://github.com/yourusername/yourrepository/raw/main/path_to_image/flutter.png" alt="Flutter" width="50" height="50"/>
+<img src="https://github.com/yourusername/yourrepository/raw/main/path_to_image/springboot.png" alt="Spring Boot" width="50" height="50"/>
+<img src="https://github.com/yourusername/yourrepository/raw/main/path_to_image/nodejs.png" alt="Node.js" width="50" height="50"/>
+
+## 📫 How to reach me:
+
+- Email: [mohamedamine.abassi@esprit.tn](mailto:mohamedamine.abassi@esprit.tn)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+
+## 🌱 I’m currently learning:
+
+- More about cloud technologies and best practices in mobile development.
