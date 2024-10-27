@@ -27,6 +27,6 @@ I'm a **Fullstack Mobile Developer** 👨‍💻 specializing in **Android** �
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineAbassi&layout=compact&theme=tokyonight)
 
 ## 📫 Let's Connect!
-- 📧 **Email**: [amine.abassi@esprit.tn](mailto:amine.abassi@esprit.tn)
-- 💼 **LinkedIn**: [linkedin.com/in/amine-abassi](https://linkedin.com/in/amine-abassi)
+- 📧 **Email**: [mohamedamine.abassi@esprit.tn](mailto:mohamedamine.abassi@esprit.tn)
+- 💼 **LinkedIn**: [linkedin.com/in/amine-abassi](linkedin.com/in/amine-abassi-aa3ab81b8)
 
