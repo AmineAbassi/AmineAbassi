@@ -28,5 +28,5 @@ I'm a **Fullstack Mobile Developer** 👨‍💻 specializing in **Android** �
 
 ## 📫 Let's Connect!
 - 📧 **Email**: [mohamedamine.abassi@esprit.tn](mailto:mohamedamine.abassi@esprit.tn)
-- 💼 **LinkedIn**: [linkedin.com/in/amine-abassi](linkedin.com/in/amine-abassi-aa3ab81b8)
+- 💼 **LinkedIn**: [linkedin.com/in/amine-abassi](https://www.linkedin.com/in/amine-abassi-aa3ab81b8/)
 
